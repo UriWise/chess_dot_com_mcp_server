@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+src/chess/chess_api.py
+src/chess/server.py
+src/mcp_chess.egg-info/PKG-INFO
+src/mcp_chess.egg-info/SOURCES.txt
+src/mcp_chess.egg-info/dependency_links.txt
+src/mcp_chess.egg-info/entry_points.txt
+src/mcp_chess.egg-info/requires.txt
+src/mcp_chess.egg-info/top_level.txt
